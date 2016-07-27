@@ -1,3 +1,4 @@
 # ProyectoBootcamp
 
-- Eliot Rojas Hern·ndez
+- Eliot Rojas Hern√°ndez
+- Rafael Perez Flores
